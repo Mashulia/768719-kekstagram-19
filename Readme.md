@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Мария Руднева](https://up.htmlacademy.ru/javascript/19/user/768719).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
